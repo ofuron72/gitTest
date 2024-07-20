@@ -6,7 +6,10 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Version 1.0");
         System.out.println("Version 1.5");
+
         System.out.println("Version 3.0");
+        System.out.println("Version 4");
+        System.out.println("Version 5");
 
 
 
